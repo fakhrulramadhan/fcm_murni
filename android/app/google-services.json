@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70114004576",
+    "project_id": "fcm-murni",
+    "storage_bucket": "fcm-murni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70114004576:android:f20cbc110424cb8d03bd05",
+        "android_client_info": {
+          "package_name": "com.example.fcm_murni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70114004576-itfqbadhkkpe653nq1quusebksop5e4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsyaYc5qU92VGuUmZ7LnrHE_6yX6Od-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70114004576-itfqbadhkkpe653nq1quusebksop5e4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
